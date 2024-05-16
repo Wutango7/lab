@@ -1,4 +1,4 @@
-# CISSP Journey (Not really structured. Grammar mistakes)
+# CISSP Journey (Not really structured. Grammar mistakes. I repeated a lot of terms just to drill in subjects.)
 Materials used:
 
 Books
