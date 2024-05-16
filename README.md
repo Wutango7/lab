@@ -1,4 +1,4 @@
-# lab
+# CISSP Journey (Not really structured. Grammar mistakes)
 Materials used:
 
 Books
